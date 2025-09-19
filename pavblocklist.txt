@@ -11,5 +11,11 @@
 0.0.0.0 bytecdn.com
 0.0.0.0 *.tiktokv.com
 0.0.0.0 tiktokv.com
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 m.tiktok.com
+0.0.0.0 api.tiktok.com
+0.0.0.0 tiktokv.com
+0.0.0.0 www.tiktokv.com
 
 
